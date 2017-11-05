@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+# opções básicas
+title: polythropos
+author: Pedro Lima
+email: plima@me.com
+description: só mais uma página estática no GitHub
+twitter_username: ipedrolima
+github_username: pelima
+
+# configurações da build
+markdown: kramdown
+theme: minima
